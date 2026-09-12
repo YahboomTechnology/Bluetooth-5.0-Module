@@ -1,0 +1,11 @@
+Bluetooth 5.0			STM32C8T6
+VCC				5V
+GND				GND
+RXD				PA9
+TXD				PA10
+
+4-Channel Motor Driver Board		STM32C8T6
+5V				5V
+GND				GND
+SCL				PB10
+SDA				PB11

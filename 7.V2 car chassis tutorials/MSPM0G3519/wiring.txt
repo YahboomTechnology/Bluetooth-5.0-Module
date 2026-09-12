@@ -1,0 +1,11 @@
+Bluetooth 5.0			MSPM0
+VCC				5V
+GND				GND
+TXD				PA25
+RXD				PA26
+
+4-Channel Motor Driver Board		MSPM0
+5V				5V
+GND				GND
+TX2				PB7
+RX2				PB6
